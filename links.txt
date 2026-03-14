@@ -1,0 +1,16 @@
+# P6.py Models (Deep Neural Network Face/Age/Gender)
+face_deploy.prototxt: https://raw.githubusercontent.com/opencv/opencv/master/samples/dnn/face_detector/deploy.prototxt
+face_model.caffemodel: https://raw.githubusercontent.com/opencv/opencv_3rdparty/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel
+
+age_deploy.prototxt: https://raw.githubusercontent.com/ritvik03/Age-Gender_Prediction/master/deploy_age.prototxt
+age_net.caffemodel: https://raw.githubusercontent.com/smahesh29/Gender-and-Age-Detection/master/age_net.caffemodel
+
+gender_deploy.prototxt: https://raw.githubusercontent.com/ritvik03/Age-Gender_Prediction/master/deploy_gender.prototxt
+gender_net.caffemodel: https://raw.githubusercontent.com/smahesh29/Gender-and-Age-Detection/master/gender_net.caffemodel
+
+# P7.py Models (MobileNet SSD Object Detection)
+MobileNetSSD_deploy.prototxt: https://raw.githubusercontent.com/djmv/MobilNet_SSD_opencv/master/MobileNetSSD_deploy.prototxt
+MobileNetSSD_deploy.caffemodel: https://raw.githubusercontent.com/djmv/MobilNet_SSD_opencv/master/MobileNetSSD_deploy.caffemodel
+
+# P5.py Models (Emotion Detection)
+emotion_model.hdf5: https://github.com/petercunha/Emotion/raw/master/models/emotion_model.hdf5
